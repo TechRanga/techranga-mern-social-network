@@ -1,2 +1,2 @@
 # techranga-mern-travel-booking
-A Travel/Booking Application built on the MERN Stack.
+A Social Network Application built on the MERN Stack.
